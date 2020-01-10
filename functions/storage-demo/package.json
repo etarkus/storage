@@ -1,0 +1,9 @@
+{
+  "name": "storage-demo",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/storage": "^4.2.0"
+  }
+}

@@ -1,0 +1,10 @@
+name = "storage"
+type = "javascript"
+account_id = "3334c6b5a421ca85aea19d886d81b333"
+workers_dev = true
+route = ""
+zone_id = ""
+
+[site]
+bucket = "./build"
+entry-point = "proxy"
